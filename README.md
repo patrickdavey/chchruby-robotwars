@@ -14,6 +14,15 @@ Basic Repo for ChChRuby Robot Wars
 
     # Now go make your own!
 
+Possible Install Issues
+=======================
+
+You may have a problem installing the GOSU library.. if so.. there's a helpful
+error message which links to this:
+
+https://github.com/jlnr/gosu/wiki/Getting-Started-on-Linux
+
+You may need to install a few packages
 
 ### Useful resources: ###
 
