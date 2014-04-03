@@ -18,8 +18,10 @@ Basic Repo for ChChRuby Robot Wars
 ### Useful resources: ###
 
 http://rubydoc.info/gems/rrobots/0.0.1/frames
+
 https://github.com/ralreegorganon/rrobots
 
+### Some methods...: ###
     battlefield_height  #the height of the battlefield
     battlefield_width   #the width of the battlefield
     energy              #your remaining energy (if this drops below 0 you are dead)
