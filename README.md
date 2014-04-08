@@ -30,6 +30,8 @@ http://rubydoc.info/gems/rrobots/0.0.1/frames
 
 https://github.com/ralreegorganon/rrobots
 
+http://rubyforge.org/forum/?group_id=1109
+
 ### Some methods...: ###
     battlefield_height  #the height of the battlefield
     battlefield_width   #the width of the battlefield
