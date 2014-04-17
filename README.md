@@ -10,7 +10,7 @@ Basic Repo for ChChRuby Robot Wars
     $ bundle install
 
     # Run the sample robots
-    $ rrobots Killa Duck
+    $ bundle exec rrobots Killa Duck
 
     # Now go make your own!
 
