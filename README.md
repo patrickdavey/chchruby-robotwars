@@ -1,12 +1,8 @@
-Basic Repo for ChChRuby Robot Wars
+Basic Repo for RoboTank Showdown!
 ==================================
+    # Fork this repo, so you can submit your tank via PR
 
-    # Checkout the project
-    $ git clone git://github.com/patrickdavey/chchruby-robotwars.git
-    $ cd chchruby-robotwars
-
-    # Install the project dependencies
-    $ gem install bundler
+    # Clone your fork. Then install the project dependencies
     $ bundle install
 
     # Run the sample robots
@@ -17,7 +13,7 @@ Basic Repo for ChChRuby Robot Wars
 Possible Install Issues
 =======================
 
-You may have a problem installing the GOSU library.. if so.. there's a helpful
+If you have a problem installing the GOSU library, there's a helpful
 error message which links to this:
 
 https://github.com/jlnr/gosu/wiki/Getting-Started-on-Linux
